@@ -10,7 +10,7 @@ does not stop sharing content and helping to each other!
 So to keep promoting this feeling and good vibes on the community, we are creating this
 [hackathon](https://diadelaprogramacion.com/) with just a main objective: **To help the community!**
 
-![Brais Moure Challenge card](./.github/assets/mouredev_rss_reader.png)
+![Brais Moure Challenge card](./.github/assets/mouredev_hackathon.png)
 > This hackathon is a collaboration between [MoureDev](https://www.twitch.tv/mouredev) and
 > [Rviewer](https://rviewer.io). He will review and give feedback to some proposed solutions from the community at the
 > end of the Hackathon 😻
